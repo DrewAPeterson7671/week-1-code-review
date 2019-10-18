@@ -8,7 +8,7 @@
 _This page was created to log a portfolio of my software development projects and other employment information_
 
 ## Github Link
-[Github link to project] (https://)
+[Github link to project] (https://drewapeterson7671.github.io/week-1-code-review/index.html)
 
 ## Setup
 
