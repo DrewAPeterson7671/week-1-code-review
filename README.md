@@ -7,6 +7,9 @@
 ## Description
 _This page was created to log a portfolio of my software development projects and other employment information_
 
+## Github Link
+[Github link to project] (https://)
+
 ## Setup
 
 * _Open HTML page in web browser_
@@ -24,3 +27,5 @@ _please contact me directly via email at drew.a.peterson@hotmail.com with any bu
 ### License
 
 _MIT_
+
+Copyright (c) 2019 **__Drew Peterson__**
